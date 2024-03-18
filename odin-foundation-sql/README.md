@@ -1,5 +1,7 @@
-This was an ODIN school project on SQL foundation.
+This was an ODIN school project where I leveraged basic SQL to analyze actor participation, movie rental patterns, genre preferences, and award-winning contributions within the Maven Movies dataset.
+Developed SQL queries to retrieve specific data from a relational database using fundamental SQL commands such as SELECT, WHERE, FROM, ORDER BY, and JOINs.
 
+Task:
 
 Write a SQL query to count the number of characters except for the spaces for each actor. Return the first 10 actors' name lengths along with their names.
 
